@@ -1401,10 +1401,3 @@ body:has(.home-page-main) .site-header .mobile-panel.open {
     display: grid;
     padding: 40px;
 }
-
-.button.gold {
-    background: var(--secondary);
-    border-color: var(--secondary);
-    color: #173667;
-    margin-top: 15px;
-}

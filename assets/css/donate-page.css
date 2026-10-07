@@ -1,24 +1,1024 @@
-﻿.donate-hero{position:relative;isolation:isolate;overflow:hidden;color:#fff;padding:77px 0 82px;background:linear-gradient(105deg,rgba(12,38,57,.92),rgba(15,48,68,.74)),url('../images/stories/community-classroom-learning.jpg') center 46%/cover}.donate-hero:after{content:"";position:absolute;z-index:-1;width:410px;height:410px;right:8%;top:-220px;border:1px solid #ffffff35;border-radius:50%;box-shadow:0 0 0 22px #ffffff0b,0 0 0 48px #ffffff09}.donate-hero-inner{max-width:1220px}.donate-hero .eyebrow{color:#f2ca75}.donate-hero h1{font-size:clamp(34px,4.2vw,51px);letter-spacing:-.045em;line-height:1.12;max-width:610px;margin:13px 0}.donate-hero p{max-width:600px;color:#e2e9e9;font-size:14px;line-height:1.8;margin:0 0 23px}.donate-hero .button{min-height:42px}.donate-section{padding:70px 0 78px;background:#fbfaf6}.donate-heading,.bank-heading{max-width:680px;margin-bottom:29px}.donate-heading .section-title,.bank-heading .section-title{font-size:clamp(28px,3.1vw,39px);margin:8px 0 10px}.donate-heading p,.bank-heading p{font-size:13px;line-height:1.75;margin:0}.donate-layout{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(260px,.78fr);gap:20px;align-items:start}.donate-main-card,.impact-card,.steps-card,.bank-card{background:#fff;border:1px solid #e0e4df;box-shadow:0 9px 30px #173b5c0a}.donate-main-card{padding:26px 27px}.donate-step-label{display:flex;align-items:center;gap:12px;margin-bottom:16px}.donate-step-label>span,.steps-card li>span{width:31px;height:31px;flex:0 0 31px;display:grid;place-items:center;border-radius:50%;background:#f5edda;color:#8e6b23;font-size:11px;font-weight:800}.donate-step-label strong,.steps-card li strong{display:block;font-size:14px;line-height:1.4;color:#203544}.donate-step-label small,.steps-card li small{display:block;color:#78848a;font-size:11px;line-height:1.5;margin-top:2px}.cause-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.cause-option{position:relative;text-align:left;display:flex;flex-direction:column;align-items:flex-start;min-height:116px;padding:13px 15px;border:1px solid #e1e6e3;background:#fffefa;color:#243a48;cursor:pointer;transition:border-color .18s,box-shadow .18s,background .18s}.cause-option:hover{border-color:#c6a853}.cause-option.is-selected{background:#f8f5ec;border-color:#c6a853;box-shadow:inset 0 0 0 1px #c6a853}.cause-icon{font-size:9px;font-weight:800;letter-spacing:.12em;color:#a47b27;margin-bottom:7px}.cause-name{font-size:12px;font-weight:800;line-height:1.45}.cause-price{font-size:15px;font-weight:800;color:#173b5c;margin-top:4px}.cause-price small{font-size:10px;font-weight:600;color:#738087}.cause-alt{font-size:10px;color:#718087;margin-top:1px}.donate-divider{height:1px;background:#e8ece9;margin:22px 0}.amount-controls{display:grid;grid-template-columns:1.15fr .85fr;gap:12px}.currency-amount,.frequency-choice{display:grid;gap:7px}.currency-amount>label,.frequency-choice>label{font-size:10px;color:#56666e;font-weight:700}.amount-input-wrap,.frequency-choice select{height:44px;border:1px solid #d5ddda;background:#fff;display:flex;align-items:center}.amount-input-wrap>span{padding-left:13px;color:#8a969a;font-size:12px;font-weight:700}.amount-input-wrap input,.frequency-choice select{min-width:0;width:100%;height:100%;border:0;background:transparent;padding:0 11px;color:#203544;font-size:12px;font-weight:700;outline:none}.frequency-choice select{border:1px solid #d5ddda}.amount-input-wrap:focus-within,.frequency-choice select:focus{border-color:#173b5c;box-shadow:0 0 0 3px #173b5c16}.donate-selection{margin:11px 0 14px;color:#728087;font-size:10px}.donate-selection strong{color:#173b5c}.donate-continue{min-height:43px;font-size:11px}.secure-note{display:flex;gap:8px;align-items:flex-start;font-size:10px!important;line-height:1.55!important;margin:12px 0 0;color:#778287!important}.secure-note span{color:#718e73;font-size:9px;padding-top:3px}.donate-aside{display:grid;gap:13px}.impact-card{padding:21px}.impact-card .eyebrow,.steps-card .eyebrow{font-size:9px}.impact-card-mark{height:108px;display:flex;align-items:center;justify-content:center;background:linear-gradient(110deg,#173b5cdd,#173b5c40),url('../images/programs/students-teamwork.jpg') center/cover;color:#fff;font-size:21px;font-weight:800;letter-spacing:.12em;margin:12px 0 14px}.impact-card h3{font-size:17px;line-height:1.35;color:#173b5c;margin:0 0 5px}.impact-card p{font-size:11px!important;line-height:1.6!important;margin:0 0 12px}.impact-card-amount{border-top:1px solid #e6eae7;border-bottom:1px solid #e6eae7;padding:11px 0;display:grid;grid-template-columns:1fr auto;align-items:center}.impact-card-amount span{font-size:10px;color:#758188}.impact-card-amount strong{grid-column:1;font-size:17px;line-height:1.3;color:#173b5c}.impact-card-amount small{grid-column:2;grid-row:1/3;font-size:10px;color:#758188}.impact-card .text-link{display:inline-block;margin-top:13px;color:#173b5c;font-size:10px}.steps-card{padding:19px 20px}.steps-card ol{list-style:none;display:grid;gap:13px;padding:0;margin:15px 0 0}.steps-card li{display:flex;align-items:center;gap:10px}.steps-card li>span{width:26px;height:26px;flex-basis:26px;font-size:10px}.steps-card li strong{font-size:11px}.steps-card li small{font-size:10px}.bank-section{padding:72px 0 77px;background:#fff}.bank-heading{margin-bottom:24px}.bank-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.bank-card{padding:20px 19px;border-radius:2px}.bank-card-featured{border-top:3px solid #d6ab42}.bank-card-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}.account-icon{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:#f5f0e4;color:#8a6a24;font-size:8px;font-weight:800;letter-spacing:.05em}.account-tag{background:#edf4ee;color:#527356;padding:4px 8px;font-size:9px;font-weight:700}.zakat-tag{background:#f5f0e4;color:#8a6a24}.general-tag{background:#eef2f5;color:#526878}.bank-card h3{font-size:15px;color:#173b5c;margin:0 0 12px}.bank-card dl{margin:0}.bank-card dl>div{padding:8px 0;border-top:1px solid #edf0ed}.bank-card dt{font-size:9px;color:#828d90;line-height:1.4}.bank-card dd{font-size:11px;font-weight:700;line-height:1.55;color:#263b47;margin:2px 0 0;overflow-wrap:anywhere}.bank-card dd.account-number{font-variant-numeric:tabular-nums;letter-spacing:.015em}.international-card{display:flex;align-items:center;justify-content:space-between;gap:25px;padding:22px 24px;margin-top:15px;background:#f7f5ed;border:1px solid #e9e3d2}.international-card .eyebrow{font-size:9px}.international-card h3{font-size:17px;color:#173b5c;margin:4px 0}.international-card p{font-size:11px!important;margin:0;max-width:600px}.international-card .button{flex:0 0 auto;min-height:40px;font-size:10px}.donate-next{background:#173b5c;color:#fff;padding:45px 0}.donate-next-inner{display:flex;align-items:center;justify-content:space-between;gap:25px}.donate-next .eyebrow{color:#f1c86f;font-size:9px}.donate-next h2{font-size:25px;line-height:1.3;letter-spacing:-.025em;margin:5px 0}.donate-next p{font-size:11px;color:#d9e3e8;max-width:610px;margin:0}.donate-next .button{flex:0 0 auto;min-height:42px;font-size:10px}
-@media(max-width:820px){.donate-hero{padding:61px 0 65px}.donate-layout{grid-template-columns:minmax(0,1.3fr) minmax(230px,.8fr);gap:13px}.donate-main-card{padding:21px 19px}.bank-grid{grid-template-columns:1fr 1fr}.bank-card:last-child{grid-column:1/-1}.donate-section,.bank-section{padding:58px 0}}
-@media(max-width:600px){.donate-hero{padding:48px 0 50px;background-position:58% center}.donate-hero h1{font-size:36px;max-width:430px}.donate-hero p{font-size:12px}.donate-section,.bank-section{padding:49px 0}.donate-heading,.bank-heading{margin-bottom:21px}.donate-heading .section-title,.bank-heading .section-title{font-size:29px}.donate-layout{grid-template-columns:1fr}.donate-main-card{padding:18px 15px}.cause-grid{gap:8px}.cause-option{padding:11px 11px;min-height:108px}.cause-name{font-size:11px}.cause-price{font-size:14px}.donate-aside{grid-template-columns:1fr 1fr;align-items:stretch}.impact-card,.steps-card{padding:15px}.impact-card-mark{height:86px}.steps-card ol{gap:11px}.amount-controls{grid-template-columns:1fr 1fr}.bank-grid{grid-template-columns:1fr}.bank-card:last-child{grid-column:auto}.international-card,.donate-next-inner{align-items:flex-start;flex-direction:column}.international-card{padding:18px}.donate-next{padding:35px 0}.donate-next h2{font-size:23px}}
-@media(max-width:390px){.donate-aside{grid-template-columns:1fr}.amount-controls{grid-template-columns:1fr}.cause-option{min-height:103px}}
-/* Warm, colorful donation page palette and photo led hero. */
-.donate-hero{position:relative;isolation:isolate;padding:0;color:#402b36;background:#f3e6d7;overflow:hidden}
-.donate-hero:before{content:"";position:absolute;z-index:-1;inset:0;background:radial-gradient(ellipse at 20% 20%,#fff9ef 0,transparent 48%),linear-gradient(115deg,#f7eddf,#f1ddd0 68%,#eed4bc)}
-.donate-hero:after{content:"";position:absolute;z-index:-1;right:-95px;top:-215px;width:470px;height:470px;border:1px solid #b85f4a35;border-radius:50%;box-shadow:0 0 0 24px #b85f4a0b,0 0 0 53px #b85f4a09}
-.donate-hero-inner{display:grid;grid-template-columns:1fr .85fr;align-items:center;gap:70px;min-height:430px;padding-top:45px;padding-bottom:45px}
-.donate-hero-copy{max-width:570px;padding:15px 0 23px}.donate-hero .eyebrow{color:#a84f41}.donate-hero h1{font-size:clamp(37px,4.2vw,54px);color:#4e303a;max-width:540px;line-height:1.1;letter-spacing:-.05em;margin:15px 0}.donate-hero p{max-width:505px;color:#65565a;font-size:14px;line-height:1.8;margin:0 0 22px}.donate-hero .button.gold{background:#d79a38;border-color:#d79a38;color:#342a27}.donate-hero .button.gold:hover{background:#e7ae4c;border-color:#e7ae4c}
-.donate-hero-art{min-height:322px;position:relative;background:linear-gradient(155deg,#974d46 0%,#c57150 42%,#dfa45e 100%);border-radius:48% 48% 7px 7px;overflow:visible;isolation:isolate;box-shadow:0 22px 45px #733f3724}.donate-hero-art:before{content:"";position:absolute;z-index:-1;inset:9px;border:1px solid #ffffff70;border-radius:inherit}.donate-hero-art:after{content:"";position:absolute;z-index:-2;inset:0;border-radius:inherit;background:linear-gradient(0deg,#482c39a8,transparent 67%),url('../images/programs/students-teamwork.jpg') center 43%/cover;mix-blend-mode:soft-light;opacity:.8}
-.hero-art-label{position:absolute;top:33px;left:34px;display:flex;align-items:center;gap:10px;color:#fff7e9;font-size:8px;line-height:1.3;letter-spacing:.15em}.hero-art-label strong{font-size:14px;letter-spacing:.19em}.hero-art-spark{font-size:29px;color:#ffe0a0}.hero-note-card{position:absolute;right:-24px;bottom:23px;width:188px;padding:17px 20px;background:#fff9ef;color:#5a3940;box-shadow:0 13px 35px #57373428;transform:rotate(2deg)}.hero-note-card span{font-size:9px;color:#8a6e68;letter-spacing:.06em}.hero-note-card strong{display:block;font-size:22px;line-height:1.12;letter-spacing:-.04em;margin-top:5px}.hero-note-card i{position:absolute;right:18px;bottom:17px;color:#b35b47;font-style:normal;font-size:18px}.hero-giving-notes{display:flex;flex-wrap:wrap;gap:18px;margin-top:23px;color:#725b57;font-size:10px;font-weight:700}.hero-giving-notes i{font-size:13px;font-style:normal;color:#b65d48;margin-right:4px}.donate-hero-bottom{padding:13px 0;background:#e7d7c5}.hero-impact-row{display:flex;justify-content:space-between;gap:18px;color:#705c56;font-size:10px}.hero-impact-row b{font-weight:800;color:#65434a}.hero-impact-row i{font-style:normal;color:#c0803f;padding:0 7px}
-.donate-section{background:#fbf6ee}.donate-heading .section-title,.bank-heading .section-title{color:#4e303a}.donate-main-card,.impact-card,.steps-card,.bank-card{border-color:#eadfd5;box-shadow:0 10px 34px #754e3a0c}.donate-main-card,.impact-card,.steps-card,.bank-card{border-radius:7px}.donate-step-label>span,.steps-card li>span{background:#f8e7d5;color:#ad6047}.cause-option{border-radius:5px;background:#fffdfa;border-color:#eee2d8}.cause-option:hover{border-color:#d98f55}.cause-option.is-selected{background:#fff3e4;border-color:#d98f55;box-shadow:inset 0 0 0 1px #d98f55}.cause-icon{color:#aa5946}.cause-price{color:#496f63}.amount-input-wrap,.frequency-choice select{border-radius:4px;border-color:#e2d7ce}.amount-input-wrap:focus-within,.frequency-choice select:focus{border-color:#a85a49;box-shadow:0 0 0 3px #a85a4917}.donate-continue.button.gold{background:#d79a38;border-color:#d79a38;color:#342a27}.impact-card-mark{background:linear-gradient(110deg,#76433fc4,#b95d4770),url('../images/programs/students-teamwork.jpg') center/cover;border-radius:4px}.impact-card h3,.impact-card-amount strong,.impact-card .text-link,.bank-card h3{color:#68404a}.bank-section{background:#fffdf9}.bank-card-featured{border-top:3px solid #d38d41;background:#fffaf1}.account-icon{background:#f9e9da;color:#aa5c47}.account-tag{background:#eaf1e9;color:#54735c;border-radius:2px}.zakat-tag{background:#fbefda;color:#9c7335}.general-tag{background:#f7e7e2;color:#a05248}.international-card{background:#f6e8dc;border-color:#efdbca;border-radius:5px}.international-card h3{color:#68404a}.international-card .button.outline{color:#874d47;border-color:#bd7960}
-@media(max-width:820px){.donate-hero-inner{min-height:385px;gap:35px}.donate-hero-art{min-height:280px}.hero-note-card{right:-12px}.hero-impact-row{font-size:9px}}
-@media(max-width:600px){.donate-hero-inner{grid-template-columns:1fr;gap:25px;padding-top:44px;padding-bottom:33px}.donate-hero-copy{padding:0}.donate-hero h1{font-size:37px}.donate-hero-art{min-height:230px;width:calc(100% - 30px);max-width:420px;margin:0 auto}.hero-art-label{top:25px;left:25px}.hero-note-card{right:-15px;bottom:15px}.hero-impact-row{flex-direction:column;gap:3px}.hero-impact-row b{font-size:9px}}
+﻿.donate-hero{
+    position:relative;
+    isolation:isolate;
+    overflow:hidden;
+    color:#fff;
+    padding:77px 0 82px;
+    background:
+        linear-gradient(
+            105deg,
+            rgba(23,54,103,.94),
+            rgba(23,54,103,.74)
+        ),
+        url('../images/stories/community-classroom-learning.jpg') center 46%/cover
+}
+
+.donate-hero:after{
+    content:"";
+    position:absolute;
+    z-index:-1;
+    width:410px;
+    height:410px;
+    right:8%;
+    top:-220px;
+    border:1px solid #ffffff35;
+    border-radius:50%;
+    box-shadow:
+        0 0 0 22px #ffffff0b,
+        0 0 0 48px #ffffff09
+}
+
+.donate-hero-inner{
+    max-width:1220px
+}
+
+.donate-hero .eyebrow{
+    color:#FAB831
+}
+
+.donate-hero h1{
+    font-size:clamp(34px,4.2vw,51px);
+    letter-spacing:-.045em;
+    line-height:1.12;
+    max-width:610px;
+    margin:13px 0
+}
+
+.donate-hero p{
+    max-width:600px;
+    color:#e2e7ee;
+    font-size:14px;
+    line-height:1.8;
+    margin:0 0 23px
+}
+
+.donate-hero .button{
+    min-height:42px
+}
+
+.donate-section{
+    padding:70px 0 78px;
+    background:#f7f8f6
+}
+
+.donate-heading,
+.bank-heading{
+    max-width:680px;
+    margin-bottom:29px
+}
+
+.donate-heading .section-title,
+.bank-heading .section-title{
+    font-size:clamp(28px,3.1vw,39px);
+    margin:8px 0 10px
+}
+
+.donate-heading p,
+.bank-heading p{
+    font-size:13px;
+    line-height:1.75;
+    margin:0;
+    color:#535353
+}
+
+.donate-layout{
+    display:grid;
+    grid-template-columns:minmax(0,1.6fr) minmax(260px,.78fr);
+    gap:20px;
+    align-items:start
+}
+
+.donate-main-card,
+.impact-card,
+.steps-card,
+.bank-card{
+    background:#fff;
+    border:1px solid #d8e0df;
+    box-shadow:0 9px 30px rgba(23,54,103,.06)
+}
+
+.donate-main-card{
+    padding:26px 27px
+}
+
+.donate-step-label{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    margin-bottom:16px
+}
+
+.donate-step-label>span,
+.steps-card li>span{
+    width:31px;
+    height:31px;
+    flex:0 0 31px;
+    display:grid;
+    place-items:center;
+    border-radius:50%;
+    background:#eef8eb;
+    color:#5EB93B;
+    font-size:11px;
+    font-weight:800
+}
+
+.donate-step-label strong,
+.steps-card li strong{
+    display:block;
+    font-size:14px;
+    line-height:1.4;
+    color:#173667
+}
+
+.donate-step-label small,
+.steps-card li small{
+    display:block;
+    color:#535353;
+    font-size:11px;
+    line-height:1.5;
+    margin-top:2px
+}
+
+.cause-grid{
+    display:grid;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:10px
+}
+
+.cause-option{
+    position:relative;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    min-height:116px;
+    padding:13px 15px;
+    border:1px solid #d8e0df;
+    background:#fff;
+    color:#173667;
+    cursor:pointer;
+    transition:
+        border-color .18s,
+        box-shadow .18s,
+        background .18s
+}
+
+.cause-option:hover{
+    border-color:#5EB93B
+}
+
+.cause-option.is-selected{
+    background:rgba(94,185,59,.08);
+    border-color:#5EB93B;
+    box-shadow:inset 0 0 0 1px #5EB93B
+}
+
+.cause-icon{
+    font-size:9px;
+    font-weight:800;
+    letter-spacing:.12em;
+    color:#5EB93B;
+    margin-bottom:7px
+}
+
+.cause-name{
+    font-size:12px;
+    font-weight:800;
+    line-height:1.45
+}
+
+.cause-price{
+    font-size:15px;
+    font-weight:800;
+    color:#173667;
+    margin-top:4px
+}
+
+.cause-price small{
+    font-size:10px;
+    font-weight:600;
+    color:#535353
+}
+
+.cause-alt{
+    font-size:10px;
+    color:#535353;
+    margin-top:1px
+}
+
+.donate-divider{
+    height:1px;
+    background:#d8e0df;
+    margin:22px 0
+}
+
+.amount-controls{
+    display:grid;
+    grid-template-columns:1.15fr .85fr;
+    gap:12px
+}
+
+.currency-amount,
+.frequency-choice{
+    display:grid;
+    gap:7px
+}
+
+.currency-amount>label,
+.frequency-choice>label{
+    font-size:10px;
+    color:#535353;
+    font-weight:700
+}
+
+.amount-input-wrap,
+.frequency-choice select{
+    height:44px;
+    border:1px solid #d8e0df;
+    background:#fff;
+    display:flex;
+    align-items:center
+}
+
+.amount-input-wrap>span{
+    padding-left:13px;
+    color:#535353;
+    font-size:12px;
+    font-weight:700
+}
+
+.amount-input-wrap input,
+.frequency-choice select{
+    min-width:0;
+    width:100%;
+    height:100%;
+    border:0;
+    background:transparent;
+    padding:0 11px;
+    color:#173667;
+    font-size:12px;
+    font-weight:700;
+    outline:none
+}
+
+.frequency-choice select{
+    border:1px solid #d8e0df
+}
+
+.amount-input-wrap:focus-within,
+.frequency-choice select:focus{
+    border-color:#5EB93B;
+    box-shadow:0 0 0 3px rgba(94,185,59,.12)
+}
+
+.donate-selection{
+    margin:11px 0 14px;
+    color:#535353;
+    font-size:10px
+}
+
+.donate-selection strong{
+    color:#173667
+}
+
+.donate-continue{
+    min-height:43px;
+    font-size:11px
+}
+
+.secure-note{
+    display:flex;
+    gap:8px;
+    align-items:flex-start;
+    font-size:10px!important;
+    line-height:1.55!important;
+    margin:12px 0 0;
+    color:#535353!important
+}
+
+.secure-note span{
+    color:#5EB93B;
+    font-size:9px;
+    padding-top:3px
+}
+
+.donate-aside{
+    display:grid;
+    gap:13px
+}
+
+.impact-card{
+    padding:21px
+}
+
+.impact-card .eyebrow,
+.steps-card .eyebrow{
+    font-size:9px
+}
+
+.impact-card-mark{
+    height:108px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:
+        linear-gradient(
+            110deg,
+            rgba(23,54,103,.86),
+            rgba(94,185,59,.45)
+        ),
+        url('../images/programs/students-teamwork.jpg') center/cover;
+    color:#fff;
+    font-size:21px;
+    font-weight:800;
+    letter-spacing:.12em;
+    margin:12px 0 14px
+}
+
+.impact-card h3{
+    font-size:17px;
+    line-height:1.35;
+    color:#173667;
+    margin:0 0 5px
+}
+
+.impact-card p{
+    font-size:11px!important;
+    line-height:1.6!important;
+    margin:0 0 12px;
+    color:#535353
+}
+
+.impact-card-amount{
+    border-top:1px solid #d8e0df;
+    border-bottom:1px solid #d8e0df;
+    padding:11px 0;
+    display:grid;
+    grid-template-columns:1fr auto;
+    align-items:center
+}
+
+.impact-card-amount span{
+    font-size:10px;
+    color:#535353
+}
+
+.impact-card-amount strong{
+    grid-column:1;
+    font-size:17px;
+    line-height:1.3;
+    color:#173667
+}
+
+.impact-card-amount small{
+    grid-column:2;
+    grid-row:1/3;
+    font-size:10px;
+    color:#535353
+}
+
+.impact-card .text-link{
+    display:inline-block;
+    margin-top:13px;
+    color:#173667;
+    font-size:10px
+}
+
+.steps-card{
+    padding:19px 20px
+}
+
+.steps-card ol{
+    list-style:none;
+    display:grid;
+    gap:13px;
+    padding:0;
+    margin:15px 0 0
+}
+
+.steps-card li{
+    display:flex;
+    align-items:center;
+    gap:10px
+}
+
+.steps-card li>span{
+    width:26px;
+    height:26px;
+    flex-basis:26px;
+    font-size:10px
+}
+
+.steps-card li strong{
+    font-size:11px
+}
+
+.steps-card li small{
+    font-size:10px
+}
+
+.bank-section{
+    padding:72px 0 77px;
+    background:#fff
+}
+
+.bank-heading{
+    margin-bottom:24px
+}
+
+.bank-grid{
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:13px
+}
+
+.bank-card{
+    padding:20px 19px;
+    border-radius:2px
+}
+
+.bank-card-featured{
+    border-top:3px solid #FAB831
+}
+
+.bank-card-top{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-bottom:10px
+}
+
+.account-icon{
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    display:grid;
+    place-items:center;
+    background:#fff7e5;
+    color:#FAB831;
+    font-size:8px;
+    font-weight:800;
+    letter-spacing:.05em
+}
+
+.account-tag{
+    background:#eef8eb;
+    color:#5EB93B;
+    padding:4px 8px;
+    font-size:9px;
+    font-weight:700
+}
+
+.zakat-tag{
+    background:#fff7e5;
+    color:#a97912
+}
+
+.general-tag{
+    background:#eef1f6;
+    color:#173667
+}
+
+.bank-card h3{
+    font-size:15px;
+    color:#173667;
+    margin:0 0 12px
+}
+
+.bank-card dl{
+    margin:0
+}
+
+.bank-card dl>div{
+    padding:8px 0;
+    border-top:1px solid #edf0ed
+}
+
+.bank-card dt{
+    font-size:9px;
+    color:#535353;
+    line-height:1.4
+}
+
+.bank-card dd{
+    font-size:11px;
+    font-weight:700;
+    line-height:1.55;
+    color:#173667;
+    margin:2px 0 0;
+    overflow-wrap:anywhere
+}
+
+.bank-card dd.account-number{
+    font-variant-numeric:tabular-nums;
+    letter-spacing:.015em
+}
+
+.international-card{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:25px;
+    padding:22px 24px;
+    margin-top:15px;
+    background:#f4f7f5;
+    border:1px solid #d8e0df
+}
+
+.international-card .eyebrow{
+    font-size:9px
+}
+
+.international-card h3{
+    font-size:17px;
+    color:#173667;
+    margin:4px 0
+}
+
+.international-card p{
+    font-size:11px!important;
+    margin:0;
+    max-width:600px;
+    color:#535353
+}
+
+.international-card .button{
+    flex:0 0 auto;
+    min-height:40px;
+    font-size:10px
+}
+
+.donate-next{
+    background:#173667;
+    color:#fff;
+    padding:45px 0
+}
+
+.donate-next-inner{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:25px
+}
+
+.donate-next .eyebrow{
+    color:#FAB831;
+    font-size:9px
+}
+
+.donate-next h2{
+    font-size:25px;
+    line-height:1.3;
+    letter-spacing:-.025em;
+    margin:5px 0
+}
+
+.donate-next p{
+    font-size:11px;
+    color:#dbe3ec;
+    max-width:610px;
+    margin:0
+}
+
+.donate-next .button{
+    flex:0 0 auto;
+    min-height:42px;
+    font-size:10px
+}
+
+@media(max-width:820px){
+    .donate-hero{
+        padding:61px 0 65px
+    }
+
+    .donate-layout{
+        grid-template-columns:minmax(0,1.3fr) minmax(230px,.8fr);
+        gap:13px
+    }
+
+    .donate-main-card{
+        padding:21px 19px
+    }
+
+    .bank-grid{
+        grid-template-columns:1fr 1fr
+    }
+
+    .bank-card:last-child{
+        grid-column:1/-1
+    }
+
+    .donate-section,
+    .bank-section{
+        padding:58px 0
+    }
+}
+
+@media(max-width:600px){
+    .donate-hero{
+        padding:48px 0 50px;
+        background-position:58% center
+    }
+
+    .donate-hero h1{
+        font-size:36px;
+        max-width:430px
+    }
+
+    .donate-hero p{
+        font-size:12px
+    }
+
+    .donate-section,
+    .bank-section{
+        padding:49px 0
+    }
+
+    .donate-heading,
+    .bank-heading{
+        margin-bottom:21px
+    }
+
+    .donate-heading .section-title,
+    .bank-heading .section-title{
+        font-size:29px
+    }
+
+    .donate-layout{
+        grid-template-columns:1fr
+    }
+
+    .donate-main-card{
+        padding:18px 15px
+    }
+
+    .cause-grid{
+        gap:8px
+    }
+
+    .cause-option{
+        padding:11px 11px;
+        min-height:108px
+    }
+
+    .cause-name{
+        font-size:11px
+    }
+
+    .cause-price{
+        font-size:14px
+    }
+
+    .donate-aside{
+        grid-template-columns:1fr 1fr;
+        align-items:stretch
+    }
+
+    .impact-card,
+    .steps-card{
+        padding:15px
+    }
+
+    .impact-card-mark{
+        height:86px
+    }
+
+    .steps-card ol{
+        gap:11px
+    }
+
+    .amount-controls{
+        grid-template-columns:1fr 1fr
+    }
+
+    .bank-grid{
+        grid-template-columns:1fr
+    }
+
+    .bank-card:last-child{
+        grid-column:auto
+    }
+
+    .international-card,
+    .donate-next-inner{
+        align-items:flex-start;
+        flex-direction:column
+    }
+
+    .international-card{
+        padding:18px
+    }
+
+    .donate-next{
+        padding:35px 0
+    }
+
+    .donate-next h2{
+        font-size:23px
+    }
+}
+
+@media(max-width:390px){
+    .donate-aside{
+        grid-template-columns:1fr
+    }
+
+    .amount-controls{
+        grid-template-columns:1fr
+    }
+
+    .cause-option{
+        min-height:103px
+    }
+}
 
 /* HOL Foundation palette and donation story photos */
-.donate-hero{color:#fff;background:linear-gradient(105deg,rgba(11,42,32,.94),rgba(11,42,32,.68)),url('../images/stories/community-classroom-learning.jpg') center 46%/cover}
-.donate-hero:before{display:none}.donate-hero:after{border-color:#63bc3c55;box-shadow:0 0 0 24px #63bc3c14,0 0 0 53px #63bc3c0d}
-.donate-hero .eyebrow,.donate-hero .hero-art-spark{color:#63bc3c}.donate-hero h1{color:#fff}.donate-hero p{color:#fff}.donate-hero .button.gold,.donate-continue.button.gold{background:#63bc3c;border-color:#63bc3c;color:#0b2a20}.donate-hero .button.gold:hover,.donate-continue.button.gold:hover{background:#5c9148;border-color:#5c9148;color:#fff}
-.donate-hero-art{background:#0b2a20;box-shadow:0 22px 45px #0b2a2033}.donate-hero-art:after{background:linear-gradient(0deg,#0b2a20b8,transparent 67%),url('../images/journey/HOL-SPP.jpeg') center 43%/cover}.hero-note-card{background:#fff;color:#0b2a20}.hero-note-card i,.hero-giving-notes i{color:#5c9148}.hero-art-label{color:#fff}.hero-impact-row{color:#0b2a20}.hero-impact-row b{color:#0b2a20}.hero-impact-row i{color:#5c9148}.donate-hero-bottom{background:#63bc3c}
-.donate-stories{padding:64px 0;background:#0b2a20;color:#fff}.donate-stories-heading{max-width:690px;margin:0 0 24px}.donate-stories-heading .eyebrow{color:#63bc3c}.donate-stories-heading h2{font-size:clamp(27px,3vw,37px);line-height:1.15;letter-spacing:-.04em;margin:8px 0;color:#fff}.donate-stories-heading p{font-size:13px;line-height:1.7;margin:0;color:#fff}.donate-stories-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.donate-story-photo{margin:0;background:#fff;color:#0b2a20;border-bottom:4px solid #63bc3c}.donate-story-photo img{width:100%;height:clamp(220px,30vw,360px);object-fit:cover}.donate-story-photo figcaption{padding:12px 15px;font-size:11px;line-height:1.6;color:#0b2a20}
-.donate-section{background:#fff}.donate-heading .section-title,.bank-heading .section-title{color:#0b2a20}.donate-main-card,.impact-card,.steps-card,.bank-card{border-color:#5c914833;box-shadow:0 10px 34px #0b2a2010;border-radius:4px}.donate-step-label>span,.steps-card li>span{background:#63bc3c;color:#0b2a20}.donate-step-label strong,.steps-card li strong{color:#0b2a20}.cause-option{background:#fff;border-color:#5c914844;color:#0b2a20;border-radius:3px}.cause-option:hover,.cause-option.is-selected{background:#63bc3c1a;border-color:#5c9148;box-shadow:inset 0 0 0 1px #5c9148}.cause-icon{color:#5c9148}.cause-price,.donate-selection strong,.impact-card h3,.impact-card-amount strong,.impact-card .text-link,.bank-card h3,.international-card h3{color:#0b2a20}.amount-input-wrap,.frequency-choice select{border-color:#5c914855;border-radius:3px}.amount-input-wrap:focus-within,.frequency-choice select:focus{border-color:#63bc3c;box-shadow:0 0 0 3px #63bc3c22}.secure-note span{color:#5c9148}.impact-card-mark{background:linear-gradient(110deg,#0b2a20cc,#5c914888),url('../images/journey/HOL-SPP.jpeg') center/cover;border-radius:3px}.bank-section{background:#fff}.bank-card-featured{border-top-color:#63bc3c;background:#63bc3c0d}.account-icon{background:#63bc3c;color:#0b2a20}.account-tag{background:#63bc3c22;color:#0b2a20}.zakat-tag,.general-tag{background:#5c914822;color:#0b2a20}.international-card{background:#63bc3c12;border-color:#5c914844;border-radius:3px}.international-card .button.outline{color:#0b2a20;border-color:#5c9148}
-@media(max-width:600px){.donate-stories{padding:48px 0}.donate-stories-grid{grid-template-columns:1fr;gap:14px}.donate-story-photo img{height:clamp(220px,65vw,340px)}}
+
+.donate-hero{
+    color:#fff;
+    background:
+        linear-gradient(
+            105deg,
+            rgba(23,54,103,.94),
+            rgba(23,54,103,.68)
+        ),
+        url('../images/stories/community-classroom-learning.jpg') center 46%/cover
+}
+
+.donate-hero:before{
+    display:none
+}
+
+.donate-hero:after{
+    border-color:#5EB93B55;
+    box-shadow:
+        0 0 0 24px #5EB93B14,
+        0 0 0 53px #5EB93B0d
+}
+
+.donate-hero .eyebrow,
+.donate-hero .hero-art-spark{
+    color:#FAB831
+}
+
+.donate-hero h1{
+    color:#fff
+}
+
+.donate-hero p{
+    color:#fff
+}
+
+.donate-hero .button.gold,
+.donate-continue.button.gold{
+    background:#5EB93B;
+    border-color:#5EB93B;
+    color:#173667
+}
+
+.donate-hero .button.gold:hover,
+.donate-continue.button.gold:hover{
+    background:#76c957;
+    border-color:#76c957;
+    color:#173667
+}
+
+.donate-hero-art{
+    background:#173667;
+    box-shadow:0 22px 45px rgba(23,54,103,.2)
+}
+
+.donate-hero-art:after{
+    background:
+        linear-gradient(
+            0deg,
+            rgba(23,54,103,.72),
+            transparent 67%
+        ),
+        url('../images/journey/HOL-SPP.jpeg') center 43%/cover
+}
+
+.hero-note-card{
+    background:#fff;
+    color:#173667
+}
+
+.hero-note-card i,
+.hero-giving-notes i{
+    color:#D91B5C
+}
+
+.hero-art-label{
+    color:#fff
+}
+
+.hero-impact-row{
+    color:#173667
+}
+
+.hero-impact-row b{
+    color:#173667
+}
+
+.hero-impact-row i{
+    color:#FAB831
+}
+
+.donate-hero-bottom{
+    background:#5EB93B
+}
+
+.donate-stories{
+    padding:64px 0;
+    background:#173667;
+    color:#fff
+}
+
+.donate-stories-heading{
+    max-width:690px;
+    margin:0 0 24px
+}
+
+.donate-stories-heading .eyebrow{
+    color:#FAB831
+}
+
+.donate-stories-heading h2{
+    font-size:clamp(27px,3vw,37px);
+    line-height:1.15;
+    letter-spacing:-.04em;
+    margin:8px 0;
+    color:#fff
+}
+
+.donate-stories-heading p{
+    font-size:13px;
+    line-height:1.7;
+    margin:0;
+    color:#fff
+}
+
+.donate-stories-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:18px
+}
+
+.donate-story-photo{
+    margin:0;
+    background:#fff;
+    color:#173667;
+    border-bottom:4px solid #5EB93B
+}
+
+.donate-story-photo img{
+    width:100%;
+    height:clamp(220px,30vw,360px);
+    object-fit:cover
+}
+
+.donate-story-photo figcaption{
+    padding:12px 15px;
+    font-size:11px;
+    line-height:1.6;
+    color:#173667
+}
+
+.donate-section{
+    background:#fff
+}
+
+.donate-heading .section-title,
+.bank-heading .section-title{
+    color:#173667
+}
+
+.donate-main-card,
+.impact-card,
+.steps-card,
+.bank-card{
+    border-color:rgba(94,185,59,.27);
+    box-shadow:0 10px 34px rgba(23,54,103,.06);
+    border-radius:4px
+}
+
+.donate-step-label>span,
+.steps-card li>span{
+    background:#5EB93B;
+    color:#173667
+}
+
+.donate-step-label strong,
+.steps-card li strong{
+    color:#173667
+}
+
+.cause-option{
+    background:#fff;
+    border-color:rgba(94,185,59,.32);
+    color:#173667;
+    border-radius:3px
+}
+
+.cause-option:hover,
+.cause-option.is-selected{
+    background:rgba(94,185,59,.1);
+    border-color:#5EB93B;
+    box-shadow:inset 0 0 0 1px #5EB93B
+}
+
+.cause-icon{
+    color:#5EB93B
+}
+
+.cause-price,
+.donate-selection strong,
+.impact-card h3,
+.impact-card-amount strong,
+.impact-card .text-link,
+.bank-card h3,
+.international-card h3{
+    color:#173667
+}
+
+.amount-input-wrap,
+.frequency-choice select{
+    border-color:rgba(94,185,59,.35);
+    border-radius:3px
+}
+
+.amount-input-wrap:focus-within,
+.frequency-choice select:focus{
+    border-color:#5EB93B;
+    box-shadow:0 0 0 3px rgba(94,185,59,.14)
+}
+
+.secure-note span{
+    color:#5EB93B
+}
+
+.impact-card-mark{
+    background:
+        linear-gradient(
+            110deg,
+            rgba(23,54,103,.8),
+            rgba(94,185,59,.5)
+        ),
+        url('../images/journey/HOL-SPP.jpeg') center/cover;
+    border-radius:3px
+}
+
+.bank-section{
+    background:#fff
+}
+
+.bank-card-featured{
+    border-top-color:#FAB831;
+    background:rgba(250,184,49,.06)
+}
+
+.account-icon{
+    background:#5EB93B;
+    color:#173667
+}
+
+.account-tag{
+    background:rgba(94,185,59,.14);
+    color:#173667
+}
+
+.zakat-tag{
+    background:rgba(250,184,49,.16);
+    color:#8a6714
+}
+
+.general-tag{
+    background:rgba(23,54,103,.08);
+    color:#173667
+}
+
+.international-card{
+    background:rgba(94,185,59,.08);
+    border-color:rgba(94,185,59,.3);
+    border-radius:3px
+}
+
+.international-card .button.outline{
+    color:#173667;
+    border-color:#5EB93B
+}
+
+@media(max-width:600px){
+    .donate-stories{
+        padding:48px 0
+    }
+
+    .donate-stories-grid{
+        grid-template-columns:1fr;
+        gap:14px
+    }
+
+    .donate-story-photo img{
+        height:clamp(220px,65vw,340px)
+    }
+}

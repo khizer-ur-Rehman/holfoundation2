@@ -96,3 +96,18 @@ scrollTopButton.addEventListener('click', () => {
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   window.scrollTo({ top: 0, behavior: reducedMotion ? 'auto' : 'smooth' });
 });
+
+.site-footer{
+    padding:30px 0 14px;
+    background-image:
+        linear-gradient(
+            125deg,
+            rgba(23,54,103,.90) 0%,
+            rgba(23,54,103,.78) 45%,
+            rgba(94,185,59,.72) 100%
+        ),
+        url("../images/footer/footer-community.jpeg");
+    background-size:cover;
+    background-position:center 48%;
+    background-repeat:no-repeat;
+}

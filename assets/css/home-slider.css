@@ -1755,4 +1755,10 @@ body:has(.home-page-main) .site-header .header-inner .brand img{width:108px;heig
   border-radius: 9999px;
   margin-top: 12px;
 }
+#journey-title {
+  color: #173667!important;
+}
 
+#journey-title em {
+  color: inherit !important;
+}

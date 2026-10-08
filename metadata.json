@@ -1,0 +1,8 @@
+{
+  "name": "HOL Foundation | Empowering Communities Through Education",
+  "description": "HOL Foundation empowers communities in Lyari, Karachi through education, health, entrepreneurship, and essential support.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

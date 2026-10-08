@@ -1,0 +1,20 @@
+.program-page .lee-impact-grid{grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr) minmax(0,.8fr)}
+.program-page .lee-stat strong{font-size:clamp(38px,4.8vw,58px);letter-spacing:-.055em}
+.program-page .lee-stat p{max-width:250px}
+.program-page .lee-alumni-copy>p+p{margin-top:12px}
+.program-page .lee-learning-heading h2{max-width:540px}
+@media(max-width:850px){.program-page .lee-impact-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
+@media(max-width:620px){.program-page .lee-impact-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:18px 12px}.program-page .lee-impact-intro{grid-column:1/-1}.program-page .lee-stat{min-width:0}.program-page .lee-stat strong{font-size:clamp(31px,8vw,44px);overflow-wrap:anywhere}.program-page .lee-stat p{font-size:10px}}
+.spp-page .lee-hero-copy h1{max-width:590px;font-size:clamp(38px,4.6vw,58px);line-height:1.03;letter-spacing:-.06em}
+.spp-page .lee-impact-intro h2{font-size:clamp(23px,2.6vw,31px)}
+.spp-page .lee-learning-heading h2,.spp-page .lee-alumni-copy h2{font-size:clamp(35px,4.2vw,49px)}
+.spp-page .lee-cta h2{font-size:clamp(25px,3.2vw,37px)}
+.spp-page .lee-stat-note strong{max-width:210px;color:var(--lee-lime);font-size:clamp(22px,2.5vw,30px);line-height:1.08;letter-spacing:-.04em}
+@media(max-width:620px){.spp-page .lee-hero-copy h1{font-size:clamp(36px,9vw,48px)}.spp-page .lee-learning-heading h2,.spp-page .lee-alumni-copy h2{font-size:clamp(34px,8.5vw,43px)}.spp-page .lee-cta h2{font-size:clamp(25px,7vw,33px)}.spp-page .lee-stat-note strong{font-size:clamp(20px,5.5vw,26px)}}
+
+.kb-campus-page .lee-hero-copy h1{max-width:460px;font-size:clamp(42px,4.8vw,62px);line-height:1.02;letter-spacing:-.06em}
+@media(max-width:620px){.kb-campus-page .lee-hero-copy h1{font-size:clamp(40px,10vw,54px)}}
+
+.preschool-page .lee-hero-copy h1{max-width:480px;font-size:clamp(42px,4.8vw,62px);line-height:1.02;letter-spacing:-.06em}
+.preschool-page .lee-stat strong{font-size:clamp(25px,2.8vw,34px);line-height:1.08;letter-spacing:-.035em;overflow-wrap:anywhere}
+@media(max-width:620px){.preschool-page .lee-hero-copy h1{font-size:clamp(38px,9.5vw,52px)}.preschool-page .lee-stat strong{font-size:clamp(23px,6vw,29px)}}

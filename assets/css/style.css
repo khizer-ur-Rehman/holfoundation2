@@ -1036,5 +1036,70 @@ p,
 .home-story-card .home-story-description {
   color: #535353 !important;
 }
+/* FOOTER - FINAL LIGHT OVERLAY + 14px TEXT */
+
+.site-footer {
+  background-image:
+    linear-gradient(
+      180deg,
+      rgba(6, 24, 18, 0.76) 0%,
+      rgba(8, 32, 23, 0.71) 48%,
+      rgba(5, 18, 13, 0.80) 100%
+    ),
+    url("../images/footer/footerimage.jpeg") !important;
+
+  background-size: cover !important;
+  background-position: center 25% !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Main footer text */
+.site-footer .footer-identity > p,
+.site-footer .footer-contact address,
+.site-footer .footer-contact-link strong,
+.site-footer .footer-links a,
+.site-footer .footer-home-link {
+  font-size: 14px !important;
+}
+
+/* Footer headings */
+.site-footer .footer-column h3 {
+  font-size: 14px !important;
+}
+
+/* Contact labels */
+.site-footer .footer-contact-link small {
+  font-size: 10px !important;
+}
+
+/* Bottom copyright */
+.site-footer .copyright {
+  font-size: 14px !important;
+}
+
+/* Since 2014 */
+.site-footer .footer-bottom-note {
+  font-size: 14px !important;
+}
+/* Footer Logo + Typography */
+.site-footer .footer-brand img {
+  width: 112px !important;
+  height: auto !important;
+  max-height: 124px !important;
+  object-fit: contain !important;
+  filter: brightness(0) invert(1) !important;
+}
+
+/* Footer text - 14px */
+.site-footer .footer-identity > p,
+.site-footer .footer-contact address,
+.site-footer .footer-contact-link strong,
+.site-footer .footer-links a,
+.site-footer .footer-home-link,
+.site-footer .copyright,
+.site-footer .footer-bottom-note,
+.site-footer .footer-column h3 {
+  font-size: 14px !important;
+}
 
 
